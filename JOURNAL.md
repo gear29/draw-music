@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 5.65h | 5 |
+| Week 3 | Tier 1 | 5.85h | 5 |
 
 ## Contents
 
@@ -40,7 +40,7 @@ Work session
 
 ### 2026-10-24 – Did all the routing for my pcb and all that's left is  to add borders and get all the errors
 
-**0.95h**
+**1.15h**
 
 Did all the routing for my pcb and all that's left is  to add borders and get all the errors
 
