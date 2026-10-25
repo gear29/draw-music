@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 4.35h | 5 |
+| Week 3 | Tier 1 | 4.75h | 5 |
 
 ## Contents
 
@@ -24,7 +24,7 @@
 
 ### 2026-10-20 – I made a VCO for my PCB that will allow one to "draw music" by using two connected sliders. The Vco will be used so that when one of the sliders is changed, the voltage increases, leading to the frequ
 
-**1.48h**
+**1.88h**
 
 I made a VCO for my PCB that will allow one to "draw music" by using two connected sliders. The Vco will be used so that when one of the sliders is changed, the voltage increases, leading to the frequency increasing. IT was difficult to know what the different pins of each thing did and how to use them effectively.
 
