@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 4.75h | 5 |
+| Week 3 | Tier 1 | 4.9h | 5 |
 
 ## Contents
 
@@ -56,7 +56,7 @@ I finished the boarders and fixing all the erors in my pcb then started on the c
 
 ### 2026-10-25 – I  finished up the bom and all the all the details need to submit my project the big problem now it i need to find a way to squeeze out some more hours without messing anything up.
 
-**0.83h**
+**0.98h**
 
 I  finished up the bom and all the all the details need to submit my project the big problem now it i need to find a way to squeeze out some more hours without messing anything up.
 
