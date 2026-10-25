@@ -11,3 +11,10 @@ BOM
 "R1","1","R","","","","Resistor_SMD:R_0201_0603Metric","~"
 "U1","1","LM555xM","","","","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","http://www.ti.com/lit/ds/symlink/lm555.pdf"
 "U2","1","volume incres","","","","Package_DIP:DIP-8_W7.62mm","http://www.ti.com/lit/ds/symlink/lm386.pdf"
+
+
+<img width="726" height="578" alt="image" src="https://github.com/user-attachments/assets/d2d1bc68-63b5-4323-bb7e-7447f1ce2636" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8d5d6e65-e098-4bc6-a26c-85adc383113a" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/45fbc859-12bc-44fd-b6d1-83213eadef72" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/cef1bd0e-d047-4dc2-8440-1cb37c86ea06" />
+
