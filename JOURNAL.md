@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 4.75h | 5 |
+| Week 3 | Tier 1 | 4.55h | 5 |
 
 ## Contents
 
@@ -40,7 +40,7 @@ I made a adjustable sound module for the second slider to adjust the amplitude o
 
 ### 2026-10-24 – Did all the routing for my pcb and all that's left is  to add borders and get all the errors
 
-**1.15h**
+**0.95h**
 
 Did all the routing for my pcb and all that's left is  to add borders and get all the errors
 
