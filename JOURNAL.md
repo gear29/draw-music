@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 5.45h | 5 |
+| Week 3 | Tier 1 | 5.65h | 5 |
 
 ## Contents
 
@@ -32,7 +32,9 @@ I made a VCO for my PCB that will allow one to "draw music" by using two connect
 
 ### 2026-10-22 – Work session
 
-**1.12h**
+**1.32h**
+
+Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/d5c03f9b-23c3-469b-af00-d2fa98656615/video.mp4)
 
