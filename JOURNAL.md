@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 5.85h | 5 |
+| Week 3 | Tier 1 | 6.25h | 5 |
 
 ## Contents
 
@@ -48,7 +48,7 @@ Did all the routing for my pcb and all that's left is  to add borders and get al
 
 ### 2026-10-25 – I finished the boarders and fixing all the erors in my pcb then started on the case for the pcb to rest in
 
-**0.37h**
+**0.77h**
 
 I finished the boarders and fixing all the erors in my pcb then started on the case for the pcb to rest in
 
