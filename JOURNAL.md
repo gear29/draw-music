@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 4.55h | 5 |
+| Week 3 | Tier 1 | 5.15h | 5 |
 
 ## Contents
 
 1. [2026-10-20 – I made a VCO for my PCB that will allow one to "draw music" by using two connected sliders. The Vco will be used so that when one of the sliders is changed, the voltage increases, leading to the frequ](#2026-10-20-i-made-a-vco-for-my-pcb-that-will-allow-one-to-dr)
-2. [2026-10-22 – I made a adjustable sound module for the second slider to adjust the amplitude of the sound wave this will allow the waves to reach almost every wave form so people can draw sound with my device it wa](#2026-10-22-i-made-a-adjustable-sound-module-for-the-second-s)
+2. [2026-10-22 – Work session](#2026-10-22-work-session)
 3. [2026-10-24 – Did all the routing for my pcb and all that's left is  to add borders and get all the errors](#2026-10-24-did-all-the-routing-for-my-pcb-and-all-thats-left)
 4. [2026-10-25 – I finished the boarders and fixing all the erors in my pcb then started on the case for the pcb to rest in](#2026-10-25-i-finished-the-boarders-and-fixing-all-the-erors-)
 5. [2026-10-25 – I  finished up the bom and all the all the details need to submit my project the big problem now it i need to find a way to squeeze out some more hours without messing anything up.](#2026-10-25-i-finished-up-the-bom-and-all-the-all-the-details)
@@ -30,11 +30,9 @@ I made a VCO for my PCB that will allow one to "draw music" by using two connect
 
 [Timelapse](https://lookout.hackclub.com/api/media/83134b88-166a-434e-9284-11ae0ef1f646/video.mp4)
 
-### 2026-10-22 – I made a adjustable sound module for the second slider to adjust the amplitude of the sound wave this will allow the waves to reach almost every wave form so people can draw sound with my device it wa
+### 2026-10-22 – Work session
 
-**0.52h**
-
-I made a adjustable sound module for the second slider to adjust the amplitude of the sound wave this will allow the waves to reach almost every wave form so people can draw sound with my device it was difficult to figure out what all the pins do and what capacitors to use
+**1.12h**
 
 [Timelapse](https://lookout.hackclub.com/api/media/d5c03f9b-23c3-469b-af00-d2fa98656615/video.mp4)
 
